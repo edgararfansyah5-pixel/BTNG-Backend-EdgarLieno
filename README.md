@@ -4,8 +4,8 @@ Tugas Akhir **BTNG Kelas Website Backend**.
 RESTful API untuk manajemen data showroom mobil, dibangun dengan **Laravel 12** + **MySQL**, dilengkapi dokumentasi interaktif **Scramble** dan di-deploy ke **Clever Cloud**.
 
 - **Nama:** `Edgar Lieno`
-- **Live API:** `https://[app-name].cleverapps.io/api/mobil`
-- **Dokumentasi (Scramble):** `https://[app-name].cleverapps.io/docs/api`
+- **Live API:** `https://btng-edgar.cleverapps.io/api/mobil`
+- **Dokumentasi (Scramble):** `https://btng-edgar.cleverapps.io/docs/api`
 
 ## Fitur
 
