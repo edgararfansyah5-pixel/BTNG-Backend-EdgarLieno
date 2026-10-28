@@ -21,8 +21,8 @@ RESTful API untuk manajemen data showroom mobil, dibangun dengan **Laravel 12** 
 Prasyarat: PHP 8.2+, Composer, MySQL (Laragon / XAMPP).
 
 ```bash
-git clone https://github.com/edgararfansyah5-pixel/BTNG-Backend-Edgar Lieno.git
-cd BTNG-Backend-Edgar Lieno
+git clone https://github.com/edgararfansyah5-pixel/BTNG-Backend-EdgarLieno.git
+cd BTNG-Backend-EdgarLieno
 
 composer install
 cp .env.example .env
